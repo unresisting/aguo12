@@ -16,13 +16,9 @@
 
 <div align="center">   
    <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='50'/> 
-   <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' width='50'/> 
-   <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width='50'/> 
    <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width='50'/> 
    <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="50"> 
    <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='50'/> 
    <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' width='50'/> 
-   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' width='50'/> 
-   <img src='https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg' width='50'/>    
 </div>
 
