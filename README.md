@@ -1,5 +1,5 @@
 <p><samp>Hi there! I'm <b>Andy</b>.</samp></p>
-<p><samp>I'm a <b>Computer Science</b> undergraduate student at <a href="http://www.unisinos.br/">UNISINOS</a> in São Leopoldo, <b>Brazil</b>.</samp></p>
+<p><samp>I'm a high school junior and software engineer from Maryland, <b>United States</b>.</samp></p>
 <p><samp>I'm passionate about <b>Competitive Programming</b>, <b>Web Development</b> and <b>Open Source</b>.</samp></p>
 <hr>
 <p>
